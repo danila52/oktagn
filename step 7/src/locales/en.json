@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "text": "Made with love by Travel Blog"
+  },
+  "home": {
+    "title": "Welcome to the Travel Blog!",
+    "countries": "Popular destinations:",
+    "countryList": ["France", "Japan", "Brazil", "Canada", "Australia"]
+  },
+  "about": {
+    "title": "About Us",
+    "text": "We are passionate about traveling and sharing experiences."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Your Name",
+    "message": "Your Message",
+    "submit": "Send"
+  }
+}
